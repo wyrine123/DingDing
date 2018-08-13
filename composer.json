@@ -3,7 +3,7 @@
     "description": "A component to send message to dingding robot",
     "keywords": ["dingding", "robot"],
     "homepage": "https://github.com/CrazyColma/DingDing",
-    "license": "Apache",
+    "license": "MIT",
     "authors": [
         {
             "name": "wyrine",
