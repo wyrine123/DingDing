@@ -7,7 +7,7 @@ You can use object to create dingding message and the component will help you to
 
 ## Installation
 ```bash
-composer require wyrine/dingding:1.0
+composer require wyrine/dingding
 ```
 
 ## Suggest
